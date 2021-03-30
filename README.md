@@ -1,4 +1,4 @@
-### Splitter Contract
+### Cryptomisa Splitter Contract
 
 Orchestrates transfering ERC20 tokens across 2 accounts.
 
